@@ -1,0 +1,35 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="20" scrolly="0" scale="0.9"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="-350.45278320312536" scrolly="136.20002746582014" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="|lhcU?FyYr3HG]#P2S5(" inline="false" x="-10" y="-10">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="utq5ew-p^S^R5szB:114">
+          <field name="FIELDNAME">plan1</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="replaceTexture" id="}Hi#,7NtxIt#2gk^)mJ]">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" enabledoslot="false" flextexinput="false" notexsharing="false"></mutation>
+          <field name="OLD_TEX_NAME">Imagen de WhatsApp 2025-12-08 a las 17.07.37_cca408f2.jpg</field>
+          <value name="MATERIAL">
+            <shadow type="materialList" id="]n9]o#mK,^epNmk0:@WR">
+              <field name="FIELDNAME">Material.006</field>
+            </shadow>
+          </value>
+          <value name="NEW_TEX_URL">
+            <shadow type="text" id="4z~br#R.JD!oV9_:udel">
+              <field name="TEXT">istockphoto-1370772148-612x612</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <editorsettings viewport-x="903.5999999999999" viewport-y="37" viewport-w="614.4" viewport-h="348" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
