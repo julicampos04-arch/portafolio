@@ -1,0 +1,159 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="20" scrolly="0" scale="0.9"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="-15.855787658691725" scrolly="150.59997558593756" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="/y(ql{Rc0FkHw._IIkLR" inline="false" x="10" y="-90">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="ADH:iYNFiYX2hY8rNmN#">
+          <field name="FIELDNAME">plan1</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="replaceTexture" id="eD4ccRf62frjUu,q~eph">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" enabledoslot="false" flextexinput="false" notexsharing="false"></mutation>
+          <field name="OLD_TEX_NAME">jallllsk.webp</field>
+          <value name="MATERIAL">
+            <shadow type="materialList" id="p4u+09oVF?UTZ)Q+ta(%">
+              <field name="FIELDNAME">Material.006</field>
+            </shadow>
+          </value>
+          <value name="NEW_TEX_URL">
+            <shadow type="text" id="z:bUr9@efhQ9Z9z8IbMk">
+              <field name="TEXT">c61917234296455.Y3JvcCwxMjc4LDEwMDAsNjAsMA.jpg</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+      <next>
+        <block type="whenClicked" id="bx5Cp5ppB)`HrZab%[wA" inline="false">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+          <field name="X_RAY">FALSE</field>
+          <field name="DOUBLE_CLICK">FALSE</field>
+          <field name="LEFT_BUTTON">TRUE</field>
+          <field name="MIDDLE_BUTTON">TRUE</field>
+          <field name="RIGHT_BUTTON">TRUE</field>
+          <value name="VALUE">
+            <shadow type="objectList" id="RhVkLj})wmKwLED35V=}">
+              <field name="FIELDNAME">plan2</field>
+            </shadow>
+          </value>
+          <statement name="DO">
+            <block type="replaceTexture" id=")q(PA(^t(p(w!x{yH)((">
+              <mutation xmlns="http://www.w3.org/1999/xhtml" enabledoslot="false" flextexinput="false" notexsharing="false"></mutation>
+              <field name="OLD_TEX_NAME">sesion 8_Mesa de trabajo 1.jpg</field>
+              <value name="MATERIAL">
+                <shadow type="materialList" id="d82e`2;xej|Qa%xve[)k">
+                  <field name="FIELDNAME">Material.007</field>
+                </shadow>
+              </value>
+              <value name="NEW_TEX_URL">
+                <shadow type="text" id="W)LWWEd~|}Nu4sWA3+bT">
+                  <field name="TEXT">37631a229927933.686dade7f3f5d.jpg</field>
+                </shadow>
+              </value>
+            </block>
+          </statement>
+          <next>
+            <block type="whenClicked" id="H+)Y1Wb%WWU#hJLVy4mU" inline="false">
+              <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+              <field name="X_RAY">FALSE</field>
+              <field name="DOUBLE_CLICK">FALSE</field>
+              <field name="LEFT_BUTTON">TRUE</field>
+              <field name="MIDDLE_BUTTON">TRUE</field>
+              <field name="RIGHT_BUTTON">TRUE</field>
+              <value name="VALUE">
+                <shadow type="objectList" id="ctd1ii?a_zPfa`edLlX^">
+                  <field name="FIELDNAME">plan3</field>
+                </shadow>
+              </value>
+              <statement name="DO">
+                <block type="replaceTexture" id="dc]=]JSpSf7=Jl~I}IcM">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" enabledoslot="false" flextexinput="false" notexsharing="false"></mutation>
+                  <field name="OLD_TEX_NAME">Imagen de WhatsApp 2025-09-01 a las 23.05.01_3930b4d4.jpg</field>
+                  <value name="MATERIAL">
+                    <shadow type="materialList" id="eY1xA(|ZIQy0$o[i~dNV">
+                      <field name="FIELDNAME">Material.009</field>
+                    </shadow>
+                  </value>
+                  <value name="NEW_TEX_URL">
+                    <shadow type="text" id="=M~fE1Vkc0N7;[9aZgM1">
+                      <field name="TEXT">37631a229927933.686dade7f3f5d.jpg</field>
+                    </shadow>
+                  </value>
+                </block>
+              </statement>
+              <next>
+                <block type="whenClicked" id="67iLo*odX:xchfc{00DR" inline="false">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+                  <field name="X_RAY">FALSE</field>
+                  <field name="DOUBLE_CLICK">FALSE</field>
+                  <field name="LEFT_BUTTON">TRUE</field>
+                  <field name="MIDDLE_BUTTON">TRUE</field>
+                  <field name="RIGHT_BUTTON">TRUE</field>
+                  <value name="VALUE">
+                    <shadow type="objectList" id="{p,M2I+,0acPpi#{]+66">
+                      <field name="FIELDNAME">plan4</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="replaceTexture" id="5Oy/W7pM[?va=6JMksdd">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" enabledoslot="false" flextexinput="false" notexsharing="false"></mutation>
+                      <field name="OLD_TEX_NAME">3fc27a229927933.686dade801969.png</field>
+                      <value name="MATERIAL">
+                        <shadow type="materialList" id="FjCz8OO6sIW2*_l;4YM*">
+                          <field name="FIELDNAME">Material.010</field>
+                        </shadow>
+                      </value>
+                      <value name="NEW_TEX_URL">
+                        <shadow type="text" id="a9msVFCM+);.B^OQY-3Y">
+                          <field name="TEXT">53fd07229927933.686dade8010e1.png</field>
+                        </shadow>
+                      </value>
+                    </block>
+                  </statement>
+                  <next>
+                    <block type="whenClicked" id="v%vzmWBDG2^f#Oo_GVnW" inline="false">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+                      <field name="X_RAY">FALSE</field>
+                      <field name="DOUBLE_CLICK">FALSE</field>
+                      <field name="LEFT_BUTTON">TRUE</field>
+                      <field name="MIDDLE_BUTTON">TRUE</field>
+                      <field name="RIGHT_BUTTON">TRUE</field>
+                      <value name="VALUE">
+                        <shadow type="objectList" id="~ep;SiDNVX}WTOYarFsy">
+                          <field name="FIELDNAME">plan 5</field>
+                        </shadow>
+                      </value>
+                      <statement name="DO">
+                        <block type="replaceTexture" id="[a6YK^g+0,2;-bn^KxB+">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" enabledoslot="false" flextexinput="false" notexsharing="false"></mutation>
+                          <field name="OLD_TEX_NAME">8989ee229143991.Y3JvcCwxMjc4LDEwMDAsNjAsMA.png</field>
+                          <value name="MATERIAL">
+                            <shadow type="materialList" id="cn^vz[]R#Xc2tD3@D4Bb">
+                              <field name="FIELDNAME">Material.005</field>
+                            </shadow>
+                          </value>
+                          <value name="NEW_TEX_URL">
+                            <shadow type="text" id="Vgd?JYDCwck0or=d3dpP">
+                              <field name="TEXT">ba4f55229927933.686dade8046b1.png</field>
+                            </shadow>
+                          </value>
+                        </block>
+                      </statement>
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+  </tab>
+  <editorsettings viewport-x="903.5999999999999" viewport-y="45.80000305175781" viewport-w="609.6" viewport-h="339.2" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
